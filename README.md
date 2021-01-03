@@ -59,9 +59,6 @@ Created class for custom Exception handling called ArrayVisitors.
 Data Structure used:    `ArrayList to store objects of MyArray.`
                         `Integer array with initial capacity of 10. It store numbers from 00-99.`
 
-MyArray: Integer[] is used. Its time complexity for insertion is O(1). When size increased by 50%, time complexity changes by O(n).
-MyArrayList: ArrayList's time Complexity for insertion is O(1).
-
 ## Academic Honesty statement:
 
 "I have done this assignment completely on my own. I have not copied
